@@ -6,6 +6,10 @@ body {
     background-color: #e15f41;
 }
 
+.carousel-inner {
+    height: 500px;
+}
+
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
     color: #e15f41;
